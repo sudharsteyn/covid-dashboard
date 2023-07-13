@@ -1,0 +1,31 @@
+.bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding-top: 28px;
+  padding-left: 118px;
+}
+
+.heading-container {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.site-name {
+  font-family: 'Roboto';
+  color: #2cc6c6;
+  font-weight: 500;
+  font-size: 28px;
+  margin-left: 8px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  font-weight: 500;
+  font-size: 28px;
+}

@@ -1,0 +1,13 @@
+.by-age-container {
+  background-color: #1c1c2b;
+  width: 90%;
+}
+
+.by-age-heading {
+  font-family: 'Roboto';
+  color: #94a3b8;
+  font-size: 24px;
+  font-weight: 500;
+  padding-top: 18px;
+  margin-left: 18px;
+}
